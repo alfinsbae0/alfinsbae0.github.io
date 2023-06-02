@@ -159,7 +159,16 @@ about list ul li a{
     font-weight: bold;
     margin-bottom: 10px;
 }
-.work p {
+.work a {
+    font-family: 'Raleway', sans-serif;
+}
+
+.work .box{
+    text-align: center;
+}
+
+.work a:hover{
+    color: green ;
     font-family: 'Raleway', sans-serif;
 }
 
